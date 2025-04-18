@@ -1,0 +1,18 @@
+streamlit>=1.22.0
+python-dotenv>=1.0.0
+PyPDF2>=3.0.0
+langchain>=0.0.267
+langchain_community>=0.0.10
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+huggingface-hub>=0.16.4
+torch>=2.0.0
+transformers>=4.30.0
+accelerate>=0.21.0
+
+# Optional: Uncomment below if you plan to use Hugging Face LLMs
+# huggingface-hub==0.14.1
+
+# Optional: Uncomment below if you plan to use Instructor Embeddings
+# InstructorEmbedding==1.0.1
+# sentence-transformers==2.2.2
